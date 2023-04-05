@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React, Next.js, TypeScript, NodeJS**
 
-- 👨‍💻 All of my projects are available at [my projects](https://hosnaqasmei.com/projects)
+- 👨‍💻 All of my projects are available at [my projects](https://mi-portafolio-martello.vercel.app/)
 
 - 💬 Ask me about **Cualquier cosa! :)**
 
-- 📫 How to reach me **hosna.qasmei@gmail.com**
+- 📫 How to reach me **martelloignacio@gmail.com**
 
-- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/17Id5YWhbfpjYsImkiLDWNl0rH-CPfM-V/view?usp=sharing)
+- 📄 Know about my experiences [my resume]()
 
 <h3 align="left">Contactame!:</h3>
 <p align="left">
