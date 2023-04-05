@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hola!, soy Ignacio :)</h1>
-<h3 align="center">Un desarrollador Full-Stack</h3>
+<h3 align="center">Desarrollador Full-Stack</h3>
 
 <!-- - 🔭 I’m currently working on [SportsTable](https://www.sportstable.xyz/) -->
 
