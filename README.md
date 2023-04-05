@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **martelloignacio@gmail.com**
 
-- 📄 Know about my experiences [my resume]()
-
 <h3 align="left">Contactame!:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ignacio-jos%C3%A9-martello-6559a5205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hosnaqasmei/" height="30" width="40" /></a>
