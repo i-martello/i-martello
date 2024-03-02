@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hola!, soy Ignacio :)</h1>
-<h3 align="center">Desarrollador Full-Stack</h3>
+<h3 align="center">Analista de Datos</h3>
 
-- 🌱 I’m currently learning **React, Next.js, TypeScript, NodeJS**
+- 🌱 I’m currently learning **Python, MySql, MongoDB, TypeScript, NodeJS**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://mi-portafolio-martello.vercel.app/)
 
