@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hola!, soy Ignacio :)</h1>
-<h3 align="center">Analista de Datos</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🌱 I’m currently learning **Python, MySql, MongoDB, TypeScript, NodeJS**
 
